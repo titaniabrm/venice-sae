@@ -14,7 +14,7 @@
 --=====================================================================
 -- 0. CONFIGURACAO  (TROQUE PELA SUA URL DO GITHUB)
 --=====================================================================
-local SCRIPT_URL = "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/venice_sae.lua"
+local SCRIPT_URL = "https://raw.githubusercontent.com/titaniabrm/venice-sae/main/venice_sae.lua"
 local HUB_VER    = "1.1.0"
 
 --=====================================================================
